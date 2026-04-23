@@ -1,0 +1,2 @@
+# PensamentoComputacional
+Atividades praticas 
