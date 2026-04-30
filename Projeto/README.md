@@ -34,6 +34,7 @@ Notificações por atualização de estoque.
 Metodologia de Desenvolvimento
 Metodologia: Scrum
 Sprints: 2 semanas
+
 Ferramentas: Kanban
 Desafios Identificados
 Escalabilidade;
