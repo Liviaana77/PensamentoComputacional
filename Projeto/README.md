@@ -2,6 +2,7 @@ Plataforma Inteligente de Disponibilidade de Medicamentos
 
 
 Descrição:
+
 Uma aplicação web e mobile para gestão e consulta de disponibilidade de medicamentos no sistema público de saúde, integrando:
 Cadastro e autenticação de usuários;
 Módulo de consulta de medicamentos (UBS e Farmácia Popular);
@@ -12,6 +13,7 @@ Painel de relatórios para gestores da saúde pública.
 Pensamento Computacional Aplicado
 
 Decomposição:
+
 Autenticação de usuários
 Consulta de medicamentos
 Gestão de disponibilidade (estoque)
@@ -20,6 +22,7 @@ Relatórios gerenciais
 Recomendação inteligente
 
 Reconhecimento de Padrões:
+
 Login tipo sistemas bancários;
 Consulta estilo apps de localização/delivery;
 Notificações semelhantes a apps móveis.
